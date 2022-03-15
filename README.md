@@ -1,1 +1,2 @@
-# sql-cheet-sheet
+# SQL Cheet Sheet
+> learn the thing much faster
